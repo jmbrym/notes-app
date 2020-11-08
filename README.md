@@ -2,7 +2,9 @@
 
 ## Project setup
 ```
-npm install
+npm install -g @vue/cli
+it will need node_modules to run 
+npm run serve
 ```
 
 ### Compiles and hot-reloads for development
