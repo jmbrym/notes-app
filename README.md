@@ -1,4 +1,7 @@
-# notes-app2
+# notes-app
+Vue-cli
+Vuetify
+Firebase - Cloud Firestore database
 
 ## Project setup
 ```
